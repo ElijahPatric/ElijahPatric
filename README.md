@@ -1,10 +1,10 @@
 <h2> Hi, I'm Elijah Patric! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnMzc3R2dGI1dGt5bjdzNWJob3RldjM3emtzOGpzMjNuZzV1d2JtZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/m0dmKBkncVETJv2h0S/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='right' src="[https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWxnaGhiZWhhdGhjcmh6MHhjZmRhZXI2M3ptcWxoc3U4c2tkZDBjaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif)" width="230">
 <p><em>Former Mobile Developer at <a href="http://www.winegard.com">Winegard</a><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcnA4cjQzNHpwemNhdGp2cmdrbXplcXFzN3BjZXk4cG9hdG55bGFzaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/tCqoAaF8KUmhuzADVp/giphy.gif" width="30"></br>
 </em></p>
 
 
-[![Linkedin: elijahpatric](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elijahpatric/)](https://www.linkedin.com/in/elijahpatric/)
+[![Linkedin: elijahpatric](https://img.shields.io/badge/-elijahpatric-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elijahpatric/)](https://www.linkedin.com/in/elijahpatric/)
 [![GitHub Elijah](https://img.shields.io/github/followers/elijahpatric?label=follow&style=social)](https://github.com/ElijahPatric)
 
 
