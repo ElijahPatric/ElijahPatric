@@ -12,9 +12,10 @@
 
 ```swift
 let elijah = {
-  "code": ["Swift", "Kotlin", "SQL"],
-  "tools": ["UIKIt", "SwiftUI", "Jetpack Compose"],
-  "architecture": ["microservices", "event-driven", "compose", "MVVM"],
+  "code": ["Swift", "Objective-C", "Kotlin", "SQL"],
+  "frameworks": ["UIKIt", "SwiftUI", "Jetpack Compose", "CoreData", "MapKit", "WidgetKit", "XCTest"],
+  "architectures": ["MVVM", "MVC", "event-driven", "compose", "microservices"],
+  "skills": ["Git", "IoT", "Bluetooth", "AR"],
  "challenge": "Looking for my next opportunity"
 }
 ```
